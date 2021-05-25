@@ -9,4 +9,4 @@ Basically, when community has a new fun idea to idea that they want either UF or
 - The UF team will triage it and add some suggested tasks/prioritization,
 - We will discuss it at community calls and invite members to take ownership of tasks they want to help out with.
 
-**Please feel free to add feedback at any point, or assign yourself to an issue if you want to help out!**
+**Please feel free to add feedback at any point, or ask to be assigned to an issue if you want to help out!**
