@@ -1,5 +1,5 @@
 # 2021 Unitary Fund Community Roadmap
-![uf-roadmap](https://user-images.githubusercontent.com/6486256/114437605-9fd8cb80-9b7b-11eb-8152-8776297917fa.png)
+![roadmap-logo](https://user-images.githubusercontent.com/6486256/119905300-d2a70b00-bf00-11eb-8b2b-cd128700f827.png)
 
 ## Check out our current community roadmap [tasks](https://github.com/unitaryfund/community-roadmap/issues) ##
 
