@@ -1,4 +1,4 @@
-# Unitary Fund Community Roadmap
+# Unitary Fund Community Repo
 ![roadmap-logo](https://user-images.githubusercontent.com/6486256/119905300-d2a70b00-bf00-11eb-8b2b-cd128700f827.png)
 
 ## We are currently working on these tasks on the [project board](https://github.com/unitaryfund/community-roadmap/projects/1).
